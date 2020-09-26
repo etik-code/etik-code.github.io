@@ -1,2 +1,2 @@
-# etik-code75.github.io
+# etik-code.github.io
 my website
